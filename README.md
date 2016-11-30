@@ -1,6 +1,6 @@
-# Project Title
+# Java Ozlympic Event Manager
 
-One Paragraph of project description goes here
+A system for managing a mini game event - Ozlympics.
 
 ## Getting Started
 
@@ -14,11 +14,13 @@ What things you need to install the software and how to install them
 Give examples
 ```
 
-### Installing
+### Running Console Application
 
 A step by step series of examples that tell you have to get a development env running
 
 Say what the step will be
+
+### Running GUI Application
 
 ```
 Give the example
